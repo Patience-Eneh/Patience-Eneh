@@ -9,7 +9,7 @@ Hello! I am Patience, a Business Data Analyst with a strong passion for turning 
 - **Data Visualization**: Creating visually appealing and informative charts, graphs, and other visual aids to represent data.
 - **Statistical Analysis**: Utilizing statistical methods to analyze data and make predictions.
 - **Process Improvement**: Continuously seeking ways to optimize business processes and enhance efficiency.
-- - **Machine Learning**: Interested in applying machine learning algorithms to solve business problems and improve decision-making processes(I am currently trying to master this skill 😄).
+- **Machine Learning**: Interested in applying machine learning algorithms to solve business problems and improve decision-making processes(I am currently trying to master this skill 😄).
 
 ## Abilities ⚡⚡⚡
 
